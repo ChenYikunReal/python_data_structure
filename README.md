@@ -1,2 +1,6 @@
-# python_data_structure
-Python编写的一些数据结构
+# Python数据结构编程实现
+
+![](data.png)
+
+![](structure.png)
+
